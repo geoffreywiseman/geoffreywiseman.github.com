@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Geoffrey Wiseman hosts some open-source software projects here at GitHub.
+A guide to some of the projects I host here on github.
 
 ## Public Projects
 
