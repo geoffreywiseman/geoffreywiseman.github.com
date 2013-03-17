@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+body {
+	padding: 0px;
+	margin: 0px;
+}
+h1 {
+	background-color: #ccf;
+	padding: 10px;
+	text-align: center;
+	border-bottom: 1px solid #669;
+	font-family: helvetica,arial,sans;
+	font-size: 50px;
+}
+#body {
+	width: 700px;
+	margin: 0 auto;
+}
